@@ -1,2 +1,2 @@
 # homework2
-active_onboarding1.xml; active.detail1.xml; active.order1.xml-ებში მოცემულია თითოეული ლეიაუტ დიზაინის კოდი სახელის შესაბამისად.
+active_main.xml-ში, detail.xml-სა და order.xml-ში მოცემულია ლეიაუტ დიზაინის კოდი.
